@@ -6,5 +6,5 @@
 
 <a href="https://play.google.com/store/apps/details?id=com.theolivetree.webdavserver"> Serveur WebDAV </a>
 
-<a href="https://play.google.com/store/apps/details?id=com.icecoldapps.serversultimate"> Servers Ultimate </a> + <a href="https://play.google.com/store/apps/details?id=com.icecoldapps.serversultimate.packb"> Pack B (Samba Server)
+<a href="https://play.google.com/store/apps/details?id=com.icecoldapps.serversultimate"> Servers Ultimate </a> + <a href="https://play.google.com/store/apps/details?id=com.icecoldapps.serversultimate.packb"> Pack B </a> (Samba Server)
 
