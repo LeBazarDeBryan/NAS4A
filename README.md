@@ -24,3 +24,4 @@
 
 <p><a href="https://play.google.com/store/apps/details?id=io.tempage.dorynode"> Dory Node.js (+ Git, SSH Server) </a></p>
 <p><a href="https://play.google.com/store/apps/details?id=com.sylkat.apache"> AWebServer (HTTP Web Server Apache) </a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.phlox.simpleserver"> Simple HTTP Server </a></p>
