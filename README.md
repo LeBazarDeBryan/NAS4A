@@ -4,7 +4,7 @@
 
 #
 
-<h2 align="center"> Server </a>
+<h1 align="center"> Server </h1>
 
 <h3 align="center"> WebDAV </h3>
 
@@ -41,7 +41,7 @@
 
 #
 
-<h2 align="center"> Client </h2>
+<h1 align="center"> Client </h1>
 
 <h3 align="center"> Samba </h3>
 
