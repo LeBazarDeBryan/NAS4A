@@ -10,6 +10,7 @@
 <p><a href="https://play.google.com/store/apps/details?id=com.icecoldapps.serversultimate"> Servers Ultimate </a> + <a href="https://play.google.com/store/apps/details?id=com.icecoldapps.serversultimate.packb"> Pack B </a> (Samba Server)</p>
 <p><a href="APK/Droid%20NAS.apk?raw=true"> Droid NAS </a> (Samba Server) </p>
 <p><a href="https://github.com/DesktopECHO/nextcloudpi#instructions"> NextCloudPi </a></p>
+<p><a href="https://play.google.com/store/apps/details?id=fr.webrox.landrive"> LAN drive - SAMBA Serveur & Cl </a></p>
 
 #
 
