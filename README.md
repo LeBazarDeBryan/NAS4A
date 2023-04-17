@@ -4,13 +4,22 @@
 
 #
 
-<h3 align="center"> Samba / WebDAV Server </h3>
+<h2 align="center"> Server </a>
+
+<h3 align="center"> WebDAV Server </h3>
 
 <p><a href="https://play.google.com/store/apps/details?id=com.theolivetree.webdavserver"> WebDAV Server </a></p>
-<p><a href="https://play.google.com/store/apps/details?id=com.icecoldapps.serversultimate"> Servers Ultimate </a> + <a href="https://play.google.com/store/apps/details?id=com.icecoldapps.serversultimate.packb"> Pack B </a> (Samba Server)</p>
-<p><a href="APK/Droid%20NAS.apk?raw=true"> Droid NAS </a> (Samba Server) </p>
 <p><a href="https://github.com/DesktopECHO/nextcloudpi#instructions"> NextCloudPi </a></p>
+<p><a href="https://play.google.com/store/apps/details?id=alsultan.davserver"> WebDab Server </a></p>
+
+#
+
+<h3 align="center"> Samba Server </h3>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.icecoldapps.serversultimate"> Servers Ultimate </a> + <a href="https://play.google.com/store/apps/details?id=com.icecoldapps.serversultimate.packb"> Pack B </a></p>
+<p><a href="APK/Droid%20NAS.apk?raw=true"> Droid NAS </a></p>
 <p><a href="https://play.google.com/store/apps/details?id=fr.webrox.landrive"> LAN drive - SAMBA Serveur & Cl </a></p>
+
 
 #
 
@@ -27,3 +36,7 @@
 <p><a href="https://play.google.com/store/apps/details?id=com.sylkat.apache"> AWebServer (HTTP Web Server Apache) </a></p>
 <p><a href="https://play.google.com/store/apps/details?id=com.phlox.simpleserver"> Simple HTTP Server </a></p>
 <p><a href="https://play.google.com/store/apps/details?id=jp.ubi.common.http.server"> SimpleHttpServer </a></p>
+
+#
+
+<h2 align="center"> Client </h2>
