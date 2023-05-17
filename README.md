@@ -12,6 +12,7 @@
 <p><a href="https://github.com/DesktopECHO/nextcloudpi#instructions"> NextCloudPi </a></p>
 <p><a href="https://play.google.com/store/apps/details?id=alsultan.davserver"> WebDav Server </a></p>
 <p><a href="https://play.google.com/store/apps/details?id=slowscript.httpfileserver"> HTTP File Server (+WebDAV) </a></p>
+<p><a href="https://play.google.com/store/apps/details?id=tiar.ua.slf"> HTTP FS (file server) </a></p>
 
 #
 
